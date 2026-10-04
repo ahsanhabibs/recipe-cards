@@ -138,3 +138,7 @@ th {
   text-align: left;
   padding: 10px 12px;
 }
+td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #f1e4d8;
+}
