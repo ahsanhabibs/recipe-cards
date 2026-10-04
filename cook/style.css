@@ -142,3 +142,10 @@ td {
   padding: 10px 12px;
   border-bottom: 1px solid #f1e4d8;
 }
+.footer {
+  background: #1e293b;
+  color: #cbd5e1;
+  text-align: center;
+  font-size: 11px;
+  padding: 16px;
+}
