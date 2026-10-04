@@ -116,3 +116,25 @@ header{
     margin-bottom: 12px;
 
 }
+.times {
+  background: #fff5ec;
+  padding: 48px;
+}
+
+.times h2 {
+  font-size: 18px;
+  margin-bottom: 24px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  font-size: 12px;
+}
+
+th {
+  background: #f97316;
+  color: #fff;
+  text-align: left;
+  padding: 10px 12px;
+}
